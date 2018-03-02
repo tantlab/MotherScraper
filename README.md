@@ -1,6 +1,6 @@
 # MotherScraper
 
-This Jupytor Notebook script harvest data from Facebook pages post feed through the GRAPH API. 
+This Jupyter Notebook script harvest data from Facebook pages post feed through the GRAPH API. 
 
 Follow the instructions in the script. 
 
